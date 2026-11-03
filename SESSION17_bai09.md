@@ -21,11 +21,10 @@ Profile Work: tắt Password Manager, Autofill và Sync. Mỗi người một t�
 ## Phần 2: Bookmark & an toàn
 
 ### 3. Cây Bookmark (`Ctrl+Shift+O`), 30 link
-- 📁 **01_CarePulse_Clinic**: Dashboard, Hồ sơ bệnh nhân, Kê đơn, Lịch khám, Xét nghiệm, Báo cáo ca trực, Kho thuốc, Chuyển tuyến, Hướng dẫn nội bộ, IT Helpdesk
-- 📁 **02_Pharma_Portal**: Dược thư Quốc gia, Cục Quản lý Dược, Tra cứu số đăng ký thuốc, Giám định BHYT, BHXH VN, Danh mục thuốc BHYT, Drugs.com, Medscape Interaction Checker, Thuốc thu hồi, Dịch vụ công QG
-- 📁 **03_Medical_Tools**: Google Dịch, Bộ Y tế, ICD-10/11 (WHO), MDCalc, MSD Manual, PubMed, WHO Guidelines, UpToDate/BMJ, Tính liều trẻ em, Cẩm nang sơ cấp cứu
+- **01_CarePulse_Clinic**: Dashboard, Hồ sơ bệnh nhân, Kê đơn, Lịch khám, Xét nghiệm, Báo cáo ca trực, Kho thuốc, Chuyển tuyến, Hướng dẫn nội bộ, IT Helpdesk
+- **02_Pharma_Portal**: Dược thư Quốc gia, Cục Quản lý Dược, Tra cứu số đăng ký thuốc, Giám định BHYT, BHXH VN, Danh mục thuốc BHYT, Drugs.com, Medscape Interaction Checker, Thuốc thu hồi, Dịch vụ công QG
+- **03_Medical_Tools**: Google Dịch, Bộ Y tế, ICD-10/11 (WHO), MDCalc, MSD Manual, PubMed, WHO Guidelines, UpToDate/BMJ, Tính liều trẻ em, Cẩm nang sơ cấp cứu
 
-*(Thay URL nội bộ CarePulse bằng link thật.)*
 
 ### 4. Favicon-Only
 1. Mở trang, `Ctrl+D` lưu lên thanh dấu trang (`Ctrl+Shift+B` để hiện thanh).
