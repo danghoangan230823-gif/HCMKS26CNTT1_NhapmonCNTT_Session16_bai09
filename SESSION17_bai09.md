@@ -9,7 +9,7 @@ Khi thực tập sinh đăng nhập tài khoản khác (Google, GitHub, PTIT), c
 ### 2.Mô hình 3 Proflie:
 | | Work | Personal | Sandbox/Test |
 |---|---|---|---|
-| Tên | 🏥 CarePulse-Work | 👤 Personal | 🧪 Sandbox-Test |
+| Tên |  CarePulse-Work |  Personal |  Sandbox-Test |
 | Mục đích | CarePulse, BHYT, Dược thư | Học tập, GitHub, MXH, mua sắm | Môi trường test, thử extension, link lạ |
 | Theme | Xanh dương | Xanh lá | Đỏ cam |
 | Cookies | Chỉ phiên nghiệp vụ, xóa khi đóng | Phiên cá nhân | Tài khoản test, xóa khi đóng |
